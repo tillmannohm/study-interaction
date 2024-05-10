@@ -4,10 +4,6 @@
         {
             "name": "maps",
             "directory": "maps"
-        },
-        {
-            "name": "kinokroonika",
-            "directory": "kinokroonika"
         }
     ]
 }
