@@ -3,15 +3,15 @@
     "datasetInfo": "",
     "embeddings": [
         {
-            "name": "image",
+            "name": "A",
             "file": "image.json"
         },
         {
-            "name": "text",
+            "name": "B",
             "file": "text.json"
         },
         {
-            "name": "joint",
+            "name": "C",
             "file": "joint.json"
         }
     ],
