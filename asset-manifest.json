@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/study-interaction/static/css/main.b9d82991.chunk.css",
-    "main.js": "/study-interaction/static/js/main.2bd0f412.chunk.js",
-    "main.js.map": "/study-interaction/static/js/main.2bd0f412.chunk.js.map",
+    "main.css": "/study-interaction/static/css/main.083edc9e.chunk.css",
+    "main.js": "/study-interaction/static/js/main.89888434.chunk.js",
+    "main.js.map": "/study-interaction/static/js/main.89888434.chunk.js.map",
     "runtime-main.js": "/study-interaction/static/js/runtime-main.6c234955.js",
     "runtime-main.js.map": "/study-interaction/static/js/runtime-main.6c234955.js.map",
-    "static/js/2.528f2371.chunk.js": "/study-interaction/static/js/2.528f2371.chunk.js",
-    "static/js/2.528f2371.chunk.js.map": "/study-interaction/static/js/2.528f2371.chunk.js.map",
+    "static/js/2.cf4c1e61.chunk.js": "/study-interaction/static/js/2.cf4c1e61.chunk.js",
+    "static/js/2.cf4c1e61.chunk.js.map": "/study-interaction/static/js/2.cf4c1e61.chunk.js.map",
     "index.html": "/study-interaction/index.html",
-    "static/css/main.b9d82991.chunk.css.map": "/study-interaction/static/css/main.b9d82991.chunk.css.map",
-    "static/js/2.528f2371.chunk.js.LICENSE.txt": "/study-interaction/static/js/2.528f2371.chunk.js.LICENSE.txt"
+    "static/css/main.083edc9e.chunk.css.map": "/study-interaction/static/css/main.083edc9e.chunk.css.map",
+    "static/js/2.cf4c1e61.chunk.js.LICENSE.txt": "/study-interaction/static/js/2.cf4c1e61.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6c234955.js",
-    "static/js/2.528f2371.chunk.js",
-    "static/css/main.b9d82991.chunk.css",
-    "static/js/main.2bd0f412.chunk.js"
+    "static/js/2.cf4c1e61.chunk.js",
+    "static/css/main.083edc9e.chunk.css",
+    "static/js/main.89888434.chunk.js"
   ]
 }
