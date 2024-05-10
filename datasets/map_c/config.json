@@ -1,0 +1,26 @@
+{
+    "title": "map c",
+    "datasetInfo": "",
+    "embeddings": [
+        {
+            "name": "UMAP",
+            "file": "UMAP.json"
+        }
+    ],
+    "clusters": {
+        "clusterList": [],
+        "clusterColors": []
+    },
+    "total": 3000,
+    "sliders": [],
+    "info": [
+        "description"
+    ],
+    "search": [],
+    "url_prefix": "",
+    "sprite_side": 16,
+    "sprite_dir": "map_c",
+    "sprite_number": 12,
+    "sprite_image_size": 128,
+    "sprite_actual_size": 2048
+}
