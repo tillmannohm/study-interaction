@@ -6,8 +6,8 @@
             "directory": "kinokroonika"
         },
         {
-            "name": "maps",
-            "directory": "maps"
+            "name": "blm",
+            "directory": "blm"
         }
     ]
 }

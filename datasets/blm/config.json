@@ -27,7 +27,7 @@
     "search": [],
     "url_prefix": "",
     "sprite_side": 16,
-    "sprite_dir": "maps",
+    "sprite_dir": "blm",
     "sprite_number": 12,
     "sprite_image_size": 128,
     "sprite_actual_size": 2048
