@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/study-main/static/css/main.7474e510.css",
-    "main.js": "/study-main/static/js/main.f2e2c371.js",
-    "static/js/453.91e311f2.chunk.js": "/study-main/static/js/453.91e311f2.chunk.js",
-    "index.html": "/study-main/index.html",
-    "main.7474e510.css.map": "/study-main/static/css/main.7474e510.css.map",
-    "main.f2e2c371.js.map": "/study-main/static/js/main.f2e2c371.js.map",
-    "453.91e311f2.chunk.js.map": "/study-main/static/js/453.91e311f2.chunk.js.map"
+    "main.css": "/study-interaction/static/css/main.a1db051b.chunk.css",
+    "main.js": "/study-interaction/static/js/main.55eb1e28.chunk.js",
+    "main.js.map": "/study-interaction/static/js/main.55eb1e28.chunk.js.map",
+    "runtime-main.js": "/study-interaction/static/js/runtime-main.2025caae.js",
+    "runtime-main.js.map": "/study-interaction/static/js/runtime-main.2025caae.js.map",
+    "static/js/2.40befaf5.chunk.js": "/study-interaction/static/js/2.40befaf5.chunk.js",
+    "static/js/2.40befaf5.chunk.js.map": "/study-interaction/static/js/2.40befaf5.chunk.js.map",
+    "index.html": "/study-interaction/index.html",
+    "static/css/main.a1db051b.chunk.css.map": "/study-interaction/static/css/main.a1db051b.chunk.css.map",
+    "static/js/2.40befaf5.chunk.js.LICENSE.txt": "/study-interaction/static/js/2.40befaf5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/css/main.7474e510.css",
-    "static/js/main.f2e2c371.js"
+    "static/js/runtime-main.2025caae.js",
+    "static/js/2.40befaf5.chunk.js",
+    "static/css/main.a1db051b.chunk.css",
+    "static/js/main.55eb1e28.chunk.js"
   ]
 }

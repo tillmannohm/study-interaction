@@ -1,0 +1,13 @@
+{
+    "default": 0,
+    "data": [
+        {
+            "name": "kinokroonika",
+            "directory": "kinokroonika"
+        },
+        {
+            "name": "maps",
+            "directory": "maps"
+        }
+    ]
+}
